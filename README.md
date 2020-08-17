@@ -1,2 +1,2 @@
 # JavascriptProjects
- simple java
+ repository will contain 20 projects.
