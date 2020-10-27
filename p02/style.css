@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(128, 128, 128, 0.644);
+    display: flex;
+    flex-direction: column;
+    color: white;
+    align-items: center;
+}
