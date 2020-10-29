@@ -5,12 +5,26 @@
 }
 
 body {
-    background-color: rgba(128, 128, 128, 0.644);
+    background-color:maroon  ;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     color: white;
     align-items: center;
     justify-content: center;
     height: 100vh;
-    font-family: ;
+    font-family: 'Lato', sans-serif;
+    margin: 0%;
+}
+
+.movie-container {
+    margin: 20px 0;
+}
+
+.movie-container select {
+    background-color: white;
+    border: 0;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-left: 10px;
+    padding: 5px 15px 5px 15px;
 }
